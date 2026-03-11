@@ -1,4 +1,4 @@
-# flutterigga
+# Pacter (A pacman simulation using flutter)
 
 A new Flutter project.
 
